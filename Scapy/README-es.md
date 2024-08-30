@@ -103,15 +103,6 @@ displacy.render(doc, jupyter=True, style='dep')
 displacy.render(document, jupyter=True, style='ent')
 ```
 
-## Visualización Gráfica
-
-### Árbol de Dependencias Gramaticales
-
-![Dependencias Gramaticales](ruta_a_la_imagen_del_arbol)
-
-### Entidades Nombradas
-
-![Entidades Nombradas](ruta_a_la_imagen_de_entidades)
 
 ## Conclusión
 

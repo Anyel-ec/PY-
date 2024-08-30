@@ -103,16 +103,6 @@ displacy.render(doc, jupyter=True, style='dep')
 displacy.render(document, jupyter=True, style='ent')
 ```
 
-## Visualizations
-
-### Dependency Tree
-
-![Dependency Tree](path_to_dependency_tree_image)
-
-### Named Entities
-
-![Named Entities](path_to_named_entities_image)
-
 ## Conclusion
 
 This project demonstrates how to use `spaCy` to perform text analysis, from identifying grammatical dependencies to visualizing named entities. The examples provided serve as a starting point for exploring more advanced `spaCy` capabilities in NLP projects.
